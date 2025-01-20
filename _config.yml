@@ -1,3 +1,18 @@
+permalink: pretty
+
 remote_theme: pages-themes/tactile@v0.2.0
 plugins:
-- jekyll-remote-theme 
+- jekyll-remote-theme
+- jekyll-feed
+- jekyll-redirect-from
+- jekyll-sitemap
+- jemoji 
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - vendor
+  - .gitignore
+  - .jekyll-cache/
