@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Weblos Weekend is now Scouting 101"
+toc: true
 categories: CAMPOUTS
 ---
   Scouting 101 used to be named Weblos weekend but was changed in 2024. Although this
