@@ -1,8 +1,7 @@
- ---
+---
 layout: page
 title: "Awards"
-toc: true
- ---
+---
 
  There are many awards you can get in BSA. all of them may have different requirements. these awards show that you learned the knowlge that is reqired.
 
