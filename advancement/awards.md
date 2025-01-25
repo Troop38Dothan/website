@@ -1,4 +1,9 @@
- There are many awards you can get in BSA. all of them may have different reqirements. these awards show that you learned the knowlge that is reqired. 
+ ---
+layout: page
+title: "Awards"
+ ---
+
+ There are many awards you can get in BSA. all of them may have different requirements. these awards show that you learned the knowlge that is reqired.
 
   Nova awards are earned by learning and demonstrating knowledge in the stem field. There are many different types,including designed to crunch, and let it grow. The difference between them is the field. You also can acquire awards by getting these awards.
   
