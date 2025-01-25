@@ -1,9 +1,9 @@
 
-  Scouting 101 used to be named webelos weekend but was changed in 2024. Although this 
+  Scouting 101 used to be named Weblos weekend but was changed in 2024. Although this 
 change baffled many people, the reason why it exists does not. 
 There are many purposes of it including explaining skills, demonstrating these skills, 
 guiding them to a better path, and enabling cub scouts to succeed.   
-    The purpose of scouting 101 is to show webelos and arrow of lights what being in a
+    The purpose of scouting 101 is to show Weblos and arrow of lights what being in a
 scouts BSA troop is like. It also teaches them how to be a better cub scout and person.
 It teaches them how to retire the flag of the United States with honor.
     In scouting 101 the arrow of lights are put into patrols. The way of teaching these patrols
