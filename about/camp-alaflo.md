@@ -6,4 +6,4 @@ Our dear Camp Alaflo is changing. new scouts do not know what happens in camp al
 Camp Alaflo is home to many different events. The most popular is summer camp which started in 1958.  Recently more events have appeared. Klondike is where we race with sleds and complete scout skill challenges. In Weblos Weekend we show Weblos scouts what it is to be in a boy scout troop.
 
 
-To finalize alaflo has many purposes. There are many fun events including Weblos Weekend, klondike, and summer camp. The geography of the camp makes these activities more fun. Even though our dear camp is changing for better or worse it is still our dear camp alaflo
+To finalize Alaflo has many purposes. There are many fun events including Weblos Weekend, Klondike, and summer camp. The geography of the camp makes these activities more fun. Even though our dear camp is changing for better or worse it is still our dear camp Alaflo
